@@ -33,11 +33,11 @@
 
 
 
-
+<!---
 ## 📖 Stats
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RawRapter&show_icons=true&locale=en&layout=compact" alt="anantarun" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/?username=RawRapter&show_icons=true&locale=en&layout=compact" alt="anantarun" /></p>
-
+--->
 
 ## 📫 Get In Touch
 [<img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:anant.arun92@gmail.com)
